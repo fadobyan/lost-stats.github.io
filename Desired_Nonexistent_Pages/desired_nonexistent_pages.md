@@ -44,6 +44,7 @@ If you create one of these pages, please remove it from this list.
 * Ordered Probit
 * Ordered Logit
 
+
 ## Geo-Spatial
 
 * Geo-coding
@@ -105,3 +106,4 @@ If you create one of these pages, please remove it from this list.
 * Export Data to a Foreign Format
 * Set a Working Directory
 * Power Analysis of Interaction Terms
+
